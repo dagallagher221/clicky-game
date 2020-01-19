@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Volibear",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/f/fb/Volibear_0.jpg?version=f665b82c2857d2543d9032381996b3da",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Leona",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/b/b0/Leona_0.jpg?version=d2b913cd626c32b5357fc8ad05bb3d04",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Zyra",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/8/8f/Zyra_0.jpg?version=a6e7266ae78496fd1a4da9481e78d1ff",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Sona",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/13/Sona_0.jpg?version=d4c0efd742a14e340a624c6c30420ec1",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Renekton",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/07/Renekton_0.jpg?version=3dfd98dab6f98d63e4da3603714f6a37",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Annie",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/dd/Annie_0.jpg?version=d10452fb11bbfe820aa292148f159401",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Alistar",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/03/Alistar_0.jpg?version=09408fc06ef410349dd6b6c9aeb20731",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Akali",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/d/dd/Akali_0.jpg?version=a5894f6b423edc746428f06d713ffdd6",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Jinx",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/66/Jinx_0.jpg?version=4126c4c64ae3da00d4a92dd7466d1f21",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Yasuo",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/09/Yasuo_0.jpg?version=513c12d0e3111a21e50ccf1d15040b40",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Jax",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/ab/Jax_0.jpg?version=44633a04e2ff7b81d95963245f43dace",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Azir",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/b/b4/Azir_0.jpg?version=00623370caa292851d401ad84ce73440",
+        "clicked": false
+    }
+]
